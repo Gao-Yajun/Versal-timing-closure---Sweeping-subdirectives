@@ -43,7 +43,7 @@ The usage of this command is as follows.
       vtc::run_stage1 -ndw lmh -opt_design_en 0 
 
 Step 3: If the timing is not closed, then enter the stage 2 and run the following command
-vtc::run_stage1.
+vtc::run_stage2.
 The usage of this command is as follows.
 
   run_stage2
